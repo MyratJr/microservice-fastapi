@@ -19,3 +19,6 @@ This is new repository for Python DevOps Lecture/Workshop
 5. Populate `Makefile`
 
 6. Setup Continuous Integration, i.e. check code for issues like lint errors
+
+![lint-failure](https://github.com/user-attachments/assets/ee0ef148-6eb3-4424-a0c0-48ec0c989fc5)
+
