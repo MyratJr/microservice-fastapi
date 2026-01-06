@@ -2,7 +2,7 @@ install:
 	pip install --upgrade uv &&\
 		uv sync
 format:
-	#format code
+	uv run ruff format .
 lint:
 	#flake8 or #pylint
 test:

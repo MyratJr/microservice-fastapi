@@ -1,6 +1,3 @@
-def main():
-    print("Hello from fastapi-micro-service!")
+from mylib.logic import wiki
 
-
-if __name__ == "__main__":
-    main()
+print(wiki())
