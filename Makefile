@@ -6,7 +6,7 @@ format:
 lint:
 	uv run ruff check .
 test:
-	python -m pytest -vv --cov=mylib test_logic.py
+	uv run python -m pytest -vv --cov=mylib test_logic.py
 build:
 	#build container
 deploy:
