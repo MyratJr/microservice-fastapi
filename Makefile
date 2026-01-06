@@ -1,5 +1,6 @@
 install:
-	pip install fastapi
+	pip install --upgrade uv &&\
+		uv sync
 format:
 	#format code
 lint:
