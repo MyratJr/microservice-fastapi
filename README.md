@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/MyratJr/microservice-fastapi/actions/workflows/devops.yml/badge.svg)](https://github.com/MyratJr/microservice-fastapi/actions/workflows/devops.yml)
+
 # python-for-devops-january-2025
 This is new repository for Python DevOps Lecture/Workshop
 
