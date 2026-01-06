@@ -18,4 +18,4 @@ This is new repository for Python DevOps Lecture/Workshop
 
 5. Populate `Makefile`
 
-![Drawing-22 sketchpad](https://github.com/user-attachments/assets/036caf38-30e3-4ee8-ad0d-d9c050eca178)
+6. Setup Continuous Integration, i.e. check code for issues like lint errors
