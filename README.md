@@ -17,3 +17,5 @@ This is new repository for Python DevOps Lecture/Workshop
 4. Create an empty files: `Makefile`, `Dockerfile`, `mylib/__init__.py`, `mylib/logic.py`
 
 5. Populate `Makefile`
+
+![Drawing-22 sketchpad](https://github.com/user-attachments/assets/036caf38-30e3-4ee8-ad0d-d9c050eca178)
