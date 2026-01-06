@@ -5,10 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "wikipedia==1.4.0", 
-    "pytest==9.0.2", 
-    "pytest-cov==7.0.0", 
-    "pylint==4.0.4", 
-    "black==25.12.0", 
+    "wikipedia==1.4.0",
     "fire==0.7.1"
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.0.2",
+    "pytest-cov==7.0.0",
+    "ruff==0.5.0"
 ]

@@ -4,7 +4,7 @@ install:
 format:
 	uv run ruff format .
 lint:
-	pylint --disable=R,C *.py mylib/*.py
+	uv run ruff check .
 test:
 	#test
 deploy:
