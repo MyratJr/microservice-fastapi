@@ -1,6 +1,7 @@
 install:
 	pip install --upgrade uv &&\
 		uv sync
+	uv run python -m textblob.download_corpora
 format:
 	uv run ruff format .
 lint:
