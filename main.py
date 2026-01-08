@@ -1,6 +1,5 @@
 from mylib.logic import wiki, search_wiki, phrase
 from fastapi import FastAPI
-import uvicorn
 
 
 app = FastAPI(title="FastAPI Wiki project")
