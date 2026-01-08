@@ -3,7 +3,7 @@ from fastapi import FastAPI
 import uvicorn
 
 
-app = FastAPI(title="FastAAPI Wiki project")
+app = FastAPI(title="FastAPI Wiki project")
 
 
 @app.get("/")
