@@ -2,7 +2,7 @@ from mylib.logic import wiki, search_wiki, phrase
 from fastapi import FastAPI
 
 
-app = FastAPI(title="FastAPI Wiki project")
+app = FastAPI(title="Wiki project")
 
 
 @app.get("/")
